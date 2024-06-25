@@ -1,6 +1,6 @@
 <h1>Cookie Clicker</h1>
 <p>
-    This Cookie Clicker game is a Java Swing application where users click a cookie button to increment a counter. The interface includes a banner image, a clickable cookie, and a reset button.
+    This is a Java Swing application where users click a cookie button to increment a counter. The interface includes a banner image, a clickable cookie, and a reset button.
 </p>
 
 <p align="center">
